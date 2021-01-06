@@ -1,0 +1,2 @@
+C:\Source\TemperatureSimulation\TemperatureSimulation\Debug\TemperatureSimulation.exe
+C:\Source\TemperatureSimulation\TemperatureSimulation\Debug\TemperatureSimulation.pdb
